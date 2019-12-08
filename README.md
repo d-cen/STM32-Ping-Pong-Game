@@ -7,7 +7,7 @@ In this project, a pong game was built using STM32F051R8T6, and displayed on ILI
 |Component Name                             |Count  |
 | :---                                      | :---: |
 |STM32F051R8T6                              |1      |
-|ILI9341 LCD(2.8" TFT LCD with Touchscreen) |1      |
+|ILI9341 LCD (2.8" TFT LCD with Touchscreen)|1      |
 |CFAL1602 OLED                              |1      |
 |LM324 IC                                   |1      |
 |Speaker                                    |1      |
