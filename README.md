@@ -1,7 +1,7 @@
 # ECE 36200 Project: Ping Pong Game
 
 ## Description
-In this project, a pong game was built using STM32F051R8T6, and displayed on ILI9341. The game was designed for two players, each player uses 2 push buttons to control the paddle's direction to bounce off the ball. There are 3 different level of difficulty to choose, and the level of difficulty was measured by the velocity of the ball. The win condition is to be the first to score three points, and the scores are displayed on the CFAL1602 OLED. After game ends, music is played. The game can be restart after pressing pushbutton.
+This project is a pong game built using _STM32F051R8T6_ and displayed on _ILI9341_. The game was designed for two players, each player uses 2 push buttons to control the paddle's direction to bounce off the ball. There are 3 different level of difficulty to choose, and the level of difficulty was measured by the velocity of the ball. The win condition is to be the first to score three points, and the scores are displayed on the CFAL1602 OLED. After game ends, music is played. The game can be restart after pressing pushbutton.
 
 ## Components
 |Component Name                             |Count  |
